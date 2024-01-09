@@ -11,7 +11,7 @@ Software developer looking for challenges in the world of technology. With exper
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p>
+<p align="left">
 <!-- KOTLIN -->
 <!-- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> -->
  
