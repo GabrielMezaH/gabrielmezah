@@ -70,5 +70,5 @@ Software developer looking for challenges in the world of technology. With exper
 <!--<br>-->
 
 
-
+# 📊 Statistics:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmezah&theme=radical&title_color=8E2DE2&text_color=fff)     <img src="https://github-readme-stats.vercel.app/api?username=gabrielmezah&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
