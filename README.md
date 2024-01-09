@@ -10,18 +10,23 @@
 Software developer looking for challenges in the world of technology. With experience in several languages such as: Java, Python, Javascript, Css, React Native, and an unquenchable thirst for knowledge, I am ready to contribute to innovative projects. Connect with me and let's explore together the potential of technology.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
+[web1]: https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/
+[web2]: https://www.w3schools.com/css/default.asp
+[web3]: https://www.w3schools.com/js/default.asp
+[web4]: https://www.w3schools.com/sql/default.asp
+[web5]: https://www.w3schools.com/mysql/default.asp
+[web6]: https://www.w3schools.com/java/default.asp
+[web7]: https://www.w3schools.com/python/default.asp
+[web8]: https://docs.djangoproject.com/en/3.2/
+[web9]: https://www.w3schools.com/git/default.asp
+[web10]: https://vuejs.org/
+[web11]: https://www.w3schools.com/git/
+[web12]: https://nodejs.org/es/docs/
+[web13]: https://www.w3schools.com/kotlin/index.php
+[web14]: https://developer.android.com/docs?hl=es-419
+[web15]: https://es.reactjs.org/docs/getting-started.html
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <b>   etc... </b> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmezah&theme=radical&title_color=8E2DE2&text_color=fff) <img src="https://github-readme-stats.vercel.app/api?username=gabrielmezah&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
