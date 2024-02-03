@@ -9,8 +9,7 @@
 
 Software developer looking for challenges in the world of technology. With experience in several languages such as: Java, Python, Javascript, Css, React Native, and an unquenchable thirst for knowledge, I am ready to contribute to innovative projects. Connect with me and let's explore together the potential of technology.
 
-<h3 align="left">Languages and To
- ls:</h3>
+<h3 align="left">Languages and Tols:</h3>
 
 <p align="left">
 <!-- KOTLIN -->
